@@ -1,4 +1,4 @@
-DIrections to upload your own font in steps:
+Directions to upload your own font in steps:
 1. Choose a website to find your font(s) (fonts.google.com is a popular one, but i also use fontspace.com, but for this use Google Fonts for very direct instruction)
 2. Ctrl+c the font name and paste it in this url: https://fonts.googleapis.com/css2?family=Silkscreen:wght@300;400;500&display=swap (where it says "Silkscreen" replace with font name
 3. Either use an @import url() or ctrl+c the @fontface code into the .css file
